@@ -12,3 +12,5 @@
 -->
 
 The Wandering Citizen 是专注于星际公民相关工具的社区组织。
+
+在兔小巢查看我们的路线图和功能投票（需要QQ/微信登录）：https://support.qq.com/products/410309/roadmap
