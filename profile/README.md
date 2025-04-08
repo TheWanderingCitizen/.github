@@ -13,6 +13,6 @@
 
 The Wandering Citizen 是专注于星际公民相关工具的社区组织。
 
-在兔小巢查看我们的路线图和功能投票（需要42KIT通行证登录）：[https://support.qq.com/products/410309/roadmap](https://support.citizenwiki.cn/)
+在支持服务社区查看我们的功能投票（需要42KIT通行证登录）：[[https://support.qq.com/products/410309/roadmap](https://support.citizenwiki.cn/)](https://support.citizenwiki.cn/)
 
 中文百科服务状态：[https://status.citizenwiki.cn/](https://status.citizenwiki.cn/)
